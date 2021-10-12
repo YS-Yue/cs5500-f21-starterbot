@@ -1,4 +1,6 @@
-app = "yue-starterbot"
+# fly.toml file generated for small-sound-1199 on 2021-10-11T21:35:38-07:00
+
+app = "small-sound-1199"
 
 kill_signal = "SIGINT"
 kill_timeout = 5
